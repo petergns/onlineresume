@@ -69,10 +69,10 @@ bio.display();
  */
 var work = {
     "jobs": [{
-        "employer": "Countdown",
-        "title": 'Nightfill Assistant',
+        "employer": "Employer",
+        "title": 'Job Title',
         "dates": "2008-2012",
-        "description": "Worked at a local supermarket through university while I was living in New Zealand. I learned how to get along in teams, deal with customers, and stack shelves." +
+        "description": "Worked at a local business through university while I was living in New Zealand. I learned how to get along in teams, deal with customers." +
             "<br>Was a fun experience, even though I did not get to experience time travel. I learned how to get along in teams, deal with customers, and stack shelves.",
         "location": "Wellington, NZ"
     }]
