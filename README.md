@@ -1,8 +1,6 @@
 # Online Resume Project
 Online Resume Project for Nanodegree.
 
-Partial live preview: https://petergns.github.io/fresh_tomatoes/
-
 ## Set Up Instructions
 Follow these instructions to set up the Online Resume Project.
 
@@ -22,12 +20,18 @@ Unzip the file and run entertainment_center.py in IDLE.
 When you run the project it will generate a webpage called:
 
 ### Editing the Project
-There are three Python files to edit in an editor.
+There are three JavaScript files to edit in an editor.
 
-### Contents of Python files
+### Contents of Project files
 
+The JavaScript files are:
+<ul>
+  <li>helper.js for 
+  <li>jQuery.js for the JavaScript library.
+  <li>resumeBuilder.js, which is the main JavaScript file. 
+</ul>
 
-### Movie Website when in Browser:
+### Online Resume when in Browser:
 ![Image of Output](IMAGEGOESHERE.png)
 
 ## Author
