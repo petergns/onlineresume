@@ -32,7 +32,7 @@ The JavaScript files are:
 </ul>
 
 ### Online Resume when in Browser:
-![Image of Output](IMAGEGOESHERE.png)
+![Image of Output](https://github.com/petergns/onlineresume/blob/master/onlineresume.PNG)
 
 ## Author
 [petergns](https://github.com/petergns)
