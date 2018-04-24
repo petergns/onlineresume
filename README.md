@@ -10,7 +10,6 @@ You will need the following Python resources for it to run:
   <li>Web Browser such as Chrome, Firefox, or Safari.
   <li>An editor such as Atom, Notepad++, Sublime Text.
   <li>Some knowledge of HTML, CSS, and JS.
-  <li>
 </ul>
 
 ### Installation
@@ -24,9 +23,11 @@ There are three JavaScript files to edit in an editor.
 
 ### Contents of Project files
 
-The JavaScript files are:
+The files are:
 <ul>
-  <li>helper.js for 
+  <li>Index.html for the index web page.
+  <li>styles.css for the web page styling.
+  <li>helper.js for extra JavaScripts.
   <li>jQuery.js for the JavaScript library.
   <li>resumeBuilder.js, which is the main JavaScript file. 
 </ul>
