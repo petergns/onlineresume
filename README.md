@@ -14,7 +14,7 @@ You will need the following Python resources for it to run:
 </ul>
 
 ### Installation
-Unzip the file and run entertainment_center.py in IDLE.
+Unzip the file and run index.html.
 
 ### Running the Project
 When you run the project it will generate a webpage called:
