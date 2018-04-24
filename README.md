@@ -7,10 +7,10 @@ Follow these instructions to set up the Online Resume Project.
 ### Prerequisite Resources
 You will need the following Python resources for it to run:
 <ul>
-  <li>Python 2.7 (https://www.python.org/downloads/)
-  <li>webbrowser
-  <li>os
-  <li>re
+  <li>Web Browser such as Chrome, Firefox, or Safari.
+  <li>An editor such as Atom, Notepad++, Sublime Text.
+  <li>Some knowledge of HTML, CSS, and JS.
+  <li>
 </ul>
 
 ### Installation
