@@ -59,8 +59,8 @@ Within the JavaScript file resumeBuilder.js, there are several arrays.
   <li>schools
   <li>name i.e. name of institution
   <li>location i.e. location of institution
-  <li>major
-  <li>degree
+  <li>major i.e. major at institution
+  <li>degree i.e. degree at institution
   <li>dates i.e. dates of tuition
   <li>url i.e. url link to institution
 </ul>
