@@ -72,6 +72,8 @@ Within the JavaScript file resumeBuilder.js, there are several arrays.
   <li>url i.e. url link to course information
 </ul>
 
+**Note:** You can add your information to each of the arrays, and have them display on the html page.
+
 ### Online Resume when in Browser:
 ![Image of Output](https://github.com/petergns/onlineresume/blob/master/onlineresume.PNG)
 
