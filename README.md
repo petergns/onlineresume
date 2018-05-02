@@ -1,8 +1,6 @@
 # Online Resume Project
 Online Resume Project for Nanodegree.
 
-Live Project Preview: https://petergns.github.io/onlineresume/
-
 ## Set Up Instructions
 Follow these instructions to set up the Online Resume Project.
 
